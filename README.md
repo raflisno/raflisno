@@ -55,19 +55,11 @@
 
 ### 📌 Pinned / Notable Projects
 
-<p align="left">
-  <a href="https://github.com/raflisno/ProjectPW2CI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raflisno&repo=ProjectPW2CI&theme=default" />
-  </a>
-  <a href="https://github.com/raflisno/ProjectPW2OOP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raflisno&repo=ProjectPW2OOP&theme=default" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/raflisno/IIC-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raflisno&repo=IIC-Studio&theme=default" />
-  </a>
-</p>
+| Repo | Description | Stack |
+|---|---|---|
+| 🎮 [**IIC-Studio**](https://github.com/raflisno/IIC-Studio) | Infinite Imagination Creation Studio | ShaderLab |
+| 🌐 [**ProjectPW2CI**](https://github.com/raflisno/ProjectPW2CI) | Web Programming project built with CodeIgniter | PHP |
+| 🌐 [**ProjectPW2OOP**](https://github.com/raflisno/ProjectPW2OOP) | Web Programming project using OOP principles | JavaScript |
 
 ---
 
@@ -78,9 +70,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflisno&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflisno&hide_border=true" alt="GitHub Streak" />
-</p>
+> 💡 If the cards above don't load, it's a known issue with the free stats service being rate-limited — just refresh the page after a minute.
 
 ---
 
