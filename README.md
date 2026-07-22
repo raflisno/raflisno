@@ -53,16 +53,6 @@
 
 ---
 
-### 📌 Pinned / Notable Projects
-
-| Repo | Description | Stack |
-|---|---|---|
-| 🎮 [**IIC-Studio**](https://github.com/raflisno/IIC-Studio) | Infinite Imagination Creation Studio | ShaderLab |
-| 🌐 [**ProjectPW2CI**](https://github.com/raflisno/ProjectPW2CI) | Web Programming project built with CodeIgniter | PHP |
-| 🌐 [**ProjectPW2OOP**](https://github.com/raflisno/ProjectPW2OOP) | Web Programming project using OOP principles | JavaScript |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
