@@ -53,14 +53,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raflisno&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflisno&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/raflisno?style=for-the-badge&label=Followers&color=2E9EF7&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-30%2B-2E9EF7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Laravel%20|%20JS%20|%20Flutter-FF2D20?style=for-the-badge" />
 </p>
 
-> 💡 Kalau card di atas tidak muncul, itu wajar — layanan gratis ini kadang rate-limited. Refresh beberapa saat lagi.
+<!--
+  Bagian GitHub Stats di bawah ini di-nonaktifkan sementara karena layanan
+  github-readme-stats.vercel.app sedang down/error fetching resource.
+  Kalau sudah normal lagi, hapus baris komentar pembuka dan penutup di sekitar
+  blok kode di bawah ini untuk mengaktifkannya kembali.
+
+  ### 📊 GitHub Stats
+
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=raflisno&show_icons=true&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflisno&layout=compact&hide_border=true" />
+  </p>
+-->
 
 ### 🐍 Contribution Graph
 
