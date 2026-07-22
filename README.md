@@ -60,7 +60,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflisno&layout=compact&hide_border=true" />
 </p>
 
-> 💡 If the cards above don't load, it's a known issue with the free stats service being rate-limited — just refresh the page after a minute.
+> 💡 Kalau card di atas tidak muncul, itu wajar — layanan gratis ini kadang rate-limited. Refresh beberapa saat lagi.
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raflisno/raflisno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> ⚙️ Grafik ular ini butuh setup sekali via GitHub Actions (aman & stabil, tidak tergantung server luar) — lihat instruksi di bawah pesan ini.
 
 ---
 
