@@ -81,7 +81,6 @@
   <img src="https://raw.githubusercontent.com/raflisno/raflisno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> ⚙️ Grafik ular ini butuh setup sekali via GitHub Actions (aman & stabil, tidak tergantung server luar) — lihat instruksi di bawah pesan ini.
 
 ---
 
